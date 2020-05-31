@@ -1,4 +1,4 @@
-# Himsjø drar på på tutbærtbil-ferie
+# Himsjø drar på tutbærtbil-ferie
 
 > Fra 17. til 23. juli skal Nordland fylke rundes. Få den dritten bort (fra bucket lista).
 
