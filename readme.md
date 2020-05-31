@@ -22,8 +22,6 @@
 | 23.07  | Hossund     | 7t 44min (556)   | Valutan                 | Bestilt | -              | Alle     |
 | TOTALT | Norge       | 56t (3431.5)     | -                       | -       | -              | -        |
 
-
-
 ### Ønskeliste
 
 - [ ] Telt
@@ -31,7 +29,3 @@
 - [ ] Power bank
 
 - [ ] Solcellelader
-
-
-
-
