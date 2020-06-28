@@ -2,6 +2,6 @@ title: Himsjø drar på tutbærtbil-ferie
 description: [Få den bilen i flyttegiret og kjør meg til Namsos]
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon"
-teaser: /assets/images/norge.png
+teaser: /assets/images/norge.jpg
 plugins: 
   - jekyll-include-cache
