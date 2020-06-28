@@ -1,5 +1,3 @@
-# Himsjø drar på tutbærtbil-ferie
-
 > Fra 17. til 23. juli skal Nordland fylke rundes. Få den dritten bort (fra bucket lista).
 
 > [Link til Google Drive-oversikt](https://docs.google.com/spreadsheets/d/19lX8EkRglj1zN9EtXYr1DeFMhwgzQbCMvjkAV3heIgU/edit#gid=0)
@@ -22,10 +20,3 @@
 | 23.07  | Hossund     | 7t 44min (556)   | Valutan                 | Bestilt | -              | Alle     |
 | TOTALT | Norge       | 56t (3431.5)     | -                       | -       | -              | -        |
 
-### Ønskeliste
-
-- [ ] Telt
-
-- [ ] Power bank
-
-- [ ] Solcellelader
