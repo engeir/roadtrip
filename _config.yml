@@ -1,3 +1,4 @@
 title: Himsjø drar på tutbærtbil-ferie
 description: [Få den bilen i flyttegiret og kjør meg til Namsos]
-theme: jekyll-theme-cayman
+
+remote_theme: mmistakes/minimal-mistakes
