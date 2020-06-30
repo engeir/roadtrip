@@ -1,0 +1,7 @@
+main:
+  - title: "Oversikt"
+    url: /docs/oversikt/
+  - title: "Kjørerute"
+    url: /docs/rute/
+  - title: "Galleri"
+    url: /docs/galleri/
