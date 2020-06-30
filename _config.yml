@@ -6,12 +6,6 @@ classes: wide
 title: "Sommer 2020"
 description: &description "Få den bilen i flyttegiret og kjør meg til Namsos"
 # subtitle: "Få den bilen i flyttegiret og kjør meg til Namsos"
-header:
-  overlay_image: /assets/images/norge.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 plugins: 
   - jekyll-include-cache
 defaults:
