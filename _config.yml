@@ -8,6 +8,7 @@ description: &description "Få den bilen i flyttegiret og kjør meg til Namsos"
 # subtitle: "Få den bilen i flyttegiret og kjør meg til Namsos"
 plugins: 
   - jekyll-include-cache
+search: true
 defaults:
   # _posts
   - scope:
