@@ -3,7 +3,7 @@ minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 locale: "en-US"
 classes: wide
-# title: "Himsjø drar på tutbærtbil-ferie"
+title: "Himsjø drar på tutbærtbil-ferie"
 description: &description "Få den bilen i flyttegiret og kjør meg til Namsos"
 # subtitle: "Få den bilen i flyttegiret og kjør meg til Namsos"
 header:
