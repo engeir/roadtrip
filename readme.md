@@ -1,8 +1,5 @@
 ---
 layout: splash
-classes:
-  - landing
-  - dark-theme
 ---
 
 > Fra 17. til 23. juli skal Nordland fylke rundes. Få den dritten bort (fra bucket lista).
