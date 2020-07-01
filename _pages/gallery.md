@@ -17,3 +17,5 @@ gallery:
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+{% include video id="323788275" provider="vimeo" %}
