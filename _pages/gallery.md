@@ -1,10 +1,10 @@
 ---
 title: "Gallery"
-excerpt: "Bilder og videoer fra Nordland"
 layout: splash
+permalink: /gallery/
+excerpt: "Bilder og videoer fra Nordland"
 header:
   overlay_color: "#333"
-permalink: /gallery/
 gallery:
   - url: /assets/images/lofoten.jpg
     image_path: /assets/images/lofoten.jpg
