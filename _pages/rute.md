@@ -1,6 +1,6 @@
 ---
 title: "Kjørerute"
-permalink: /docs/rute/
+permalink: /rute/
 excerpt: "Tentativ kjørerute for sommeren 2020"
 last_modified_at: 2020-06-30
 redirect_from:
