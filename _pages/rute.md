@@ -1,7 +1,7 @@
 ---
 title: "Kjørerute"
-permalink: /rute/
-layout: archive
+permalink: /Rute/
+layout: splash
 excerpt: "Tentativ kjørerute for sommeren 2020"
 last_modified_at: 2020-06-30
 toc: false
