@@ -1,5 +1,5 @@
 ---
-title: "Gallery"
+title: "Galleri"
 layout: splash
 permalink: /gallery/
 excerpt: "Bilder og videoer fra Nordland"
@@ -20,7 +20,7 @@ gallery:
     title: "Et fint bilde av Torghatten"
 ---
 
-# Bilder og videoer fra Nordland
+### Bilder :)
 
 {% include gallery caption="Noen fine bilder fra **Nordland** som man kan glede seg litt over da bare." %}
 
