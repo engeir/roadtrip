@@ -1,5 +1,6 @@
 ---
 title: "Gallery"
+excerpt: "Bilder og videoer fra Nordland"
 permalink: /gallery/
 gallery:
   - url: /assets/images/lofoten.jpg
