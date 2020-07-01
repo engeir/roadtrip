@@ -1,10 +1,9 @@
 ---
 title: "Kjørerute"
 permalink: /rute/
+layout: archive
 excerpt: "Tentativ kjørerute for sommeren 2020"
 last_modified_at: 2020-06-30
-redirect_from:
-  - /theme-setup/
 toc: false
 ---
 
