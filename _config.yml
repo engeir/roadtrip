@@ -1,4 +1,5 @@
-remote_theme: "mmistakes/minimal-mistakes@4.19.3"
+# remote_theme: "mmistakes/minimal-mistakes@4.19.3"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 
 locale: "en-US"
@@ -6,6 +7,7 @@ classes: wide
 title: "Sommer 2020"
 description: &description "Få den bilen i flyttegiret og kjør meg til Namsos"
 # subtitle: "Få den bilen i flyttegiret og kjør meg til Namsos"
+repository: "engeir/roadtrip"
 plugins: 
   - jekyll-include-cache
 search: true
