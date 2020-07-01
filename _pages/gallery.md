@@ -1,6 +1,7 @@
 ---
 title: "Gallery"
 excerpt: "Bilder og videoer fra Nordland"
+layout: splash
 header:
   overlay_color: "#333"
 permalink: /gallery/
