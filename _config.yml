@@ -4,11 +4,13 @@ minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon
 locale: "en-US"
 classes: wide
 title: "Sommer 2020"
-description: &description "Få den bilen i flyttegiret og kjør meg til Namsos"
+description: "Få den bilen i flyttegiret og kjør meg til Namsos"
 # subtitle: "Få den bilen i flyttegiret og kjør meg til Namsos"
 plugins: 
   - jekyll-include-cache
 search: true
+include:
+  - _pages
 defaults:
   # _posts
   - scope:
@@ -21,3 +23,4 @@ defaults:
       comments: true
       share: true
       related: true
+
