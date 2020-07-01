@@ -5,17 +5,20 @@ gallery:
   - url: /assets/images/lofoten.jpg
     image_path: /assets/images/lofoten.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Et fint bilde fra Lofoten"
   - url: /assets/images/rodoylova.jpg
     image_path: /assets/images/rodoylova.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "Et fint bilde fra Rødøyløva"
   - url: /assets/images/bronn.jpg
     image_path: /assets/images/bronn.jpg
     alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    title: "Et fint bilde av Torghatten"
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+# Bilder og videoer fra Nordland
 
+{% include gallery caption="Noen fine bilder fra **Nordland** som man kan glede seg litt over da bare." %}
+
+### Sykkelvideo :)
 {% include video id="323788275" provider="vimeo" %}
