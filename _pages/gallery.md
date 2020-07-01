@@ -2,7 +2,7 @@
 title: "Gallery"
 excerpt: "Bilder og videoer fra Nordland"
 header:
-  overlay_filter: .2
+  overlay_color: "#333"
 permalink: /gallery/
 gallery:
   - url: /assets/images/lofoten.jpg
