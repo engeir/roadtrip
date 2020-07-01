@@ -2,6 +2,6 @@ main:
   - title: "Oversikt"
     url: https://docs.google.com/spreadsheets/d/19lX8EkRglj1zN9EtXYr1DeFMhwgzQbCMvjkAV3heIgU/edit#gid=0
   - title: "Kjørerute"
-    url: /docs/rute/rute.md
+    url: /docs/rute/
   - title: "Galleri"
     url: /docs/galleri/
