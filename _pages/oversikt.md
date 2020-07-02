@@ -1,5 +1,6 @@
 ---
 layout: splash
+excerpt: "Oversikt
 permalink: /oversikt/
 header:
   overlay_color: "#333"
