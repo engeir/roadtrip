@@ -7,6 +7,7 @@ header:
 ---
 
 <center>
+
 | Dato   | Sted        | Kjøretid (km)    | Attraksjoner            | Hotell  | Tot (per pers) | Hvem     |
 | ------ | ----------- | ---------------- | ----------------------- | ------- | -------------- |:-------- |
 | 17.07  | Brønnøysund | 13t 8min (930)   | Torghatten              | Bestilt | 3340 (1110)    | J,F,MN   |
@@ -16,4 +17,5 @@ header:
 | 22.07  | Ålesund     | 8t 22min (508)   | BYEN                    | -       | -              | -        |
 | 23.07  | Hossund     | 7t 44min (556)   | Valutan                 | Bestilt | -              | Alle     |
 | TOTALT | Norge       | 56t (3431.5)     | -                       | -       | -              | -        |
+
 </center>
