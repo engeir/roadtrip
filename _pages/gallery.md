@@ -18,6 +18,10 @@ gallery:
     image_path: /assets/images/bronn.jpg
     alt: "placeholder image 3"
     title: "Et fint bilde av Torghatten"
+  - url: /assets/images/bodo.jpeg
+    image_path: /assets/images/bodo.jpeg
+    alt: "placeholder image 4"
+    title: "Et fint bilde av Bodø"
 ---
 
 ### Bilder :)
