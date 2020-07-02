@@ -9,7 +9,7 @@ header:
 <center>
 
 | Dato   | Sted        | Kjøretid (km)    | Attraksjoner            | Hotell  | Tot (per pers) | Hvem     |
-| ------ | ----------- | ---------------- | ----------------------- | ------- | -------------- |:-------- |
+| -----: | ----------- | ---------------: | ----------------------- | ------- | -------------: |:-------- |
 | 17.07  | Brønnøysund | 13t 8min (930)   | Torghatten              | Bestilt | 3340 (1110)    | J,F,MN   |
 | 18.07  | Bodø        | 9t 50min (470.5) | Sandnessjøen, Rødøyløva | Bestilt | 4049 (675)     | Alle     |
 | 19.07  | Svolvær     | 5t 17min (222)   | Lofoten                 | Bestilt | -              | J,F,H,MN |
