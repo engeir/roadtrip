@@ -1,12 +1,9 @@
 ---
-excerpt: "Oversikt"
 layout: splash
 permalink: /oversikt/
 header:
   overlay_color: "#333"
 ---
-
-### Oversikt
 
 | Dato   | Sted        | Kjøretid (km)    | Attraksjoner            | Hotell  | Tot (per pers) | Hvem     |
 | ------ | ----------- | ---------------- | ----------------------- | ------- | -------------- |:-------- |
