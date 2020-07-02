@@ -16,3 +16,4 @@ header:
 | 22.07  | Ålesund     | 8t 22min (508)   | BYEN                    | -       | -              | -        |
 | 23.07  | Hokksund    | 7t 44min (556)   | Valutan                 | Bestilt | -              | Alle     |
 | TOTALT | Norge       | 56t (3431.5)     | -                       | -       | -              | -        |
+{: .center}
