@@ -17,10 +17,10 @@ header:
 | 23.07  | Hokksund    | 7t 44min (556)   | Valutan                 | Bestilt | -              | Alle     |
 | TOTALT | Norge       | 56t (3431.5)     | -                       | -       | -              | -        |
 
-J - Jørgen
-F - Fredrik
-MN - Marius Nikkerud
-H - Hans
-E - Eirik
-MG - Marius Groven
+J - Jørgen; 
+F - Fredrik; 
+MN - Marius Nikkerud; 
+H - Hans; 
+E - Eirik; 
+MG - Marius Groven; 
 {: .small}
