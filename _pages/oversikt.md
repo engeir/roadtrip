@@ -14,5 +14,5 @@ header:
 | 19.07  | Svolvær     | 5t 17min (222)   | Lofoten                 | Bestilt | -              | J,F,H,MN |
 | 21.07  | Namsos      | 12t 28min (745)  | Hotell Rock City        | Bestilt | (645)          | Alle     |
 | 22.07  | Ålesund     | 8t 22min (508)   | BYEN                    | -       | -              | -        |
-| 23.07  | Hossund     | 7t 44min (556)   | Valutan                 | Bestilt | -              | Alle     |
+| 23.07  | Hokksund    | 7t 44min (556)   | Valutan                 | Bestilt | -              | Alle     |
 | TOTALT | Norge       | 56t (3431.5)     | -                       | -       | -              | -        |
