@@ -5,4 +5,4 @@ excerpt: "Tentativ kjørerute for sommeren 2020"
 layout: splash
 ---
 
-![route](../route.png)
+![route](../rute.png)
