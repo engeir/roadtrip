@@ -16,7 +16,7 @@ header:
 | 21.07  | Mosjøen     | 9t 28min (745)   | Helgelandstrappa        | -       | -              | J,F,MN,MG|
 | 22.07  | Trondheim   | 5t 19min (390)   | BYEN                    | Bestilt | -              | J,MN     |
 | 23.07  | Hokksund    | 7t 15min (558)   | Valutan                 | Bestilt | -              | Alle     |
-| TOTALT | Norge       | 56t (3431.5)     | -                       | -       | -              | -        |
+| TOTALT | Norge       | 50t (3061)       | -                       | -       | -              | -        |
 
 J - Jørgen; 
 F - Fredrik; 
