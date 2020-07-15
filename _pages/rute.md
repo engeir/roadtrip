@@ -4,8 +4,8 @@ permalink: /Rute/
 excerpt: "Tentativ kjørerute for sommeren 2020"
 layout: splash
 gallery:
-  - url: /assets/images/1_Horn-Andalsvåg.jpg
-    image_path: /assets/images/1_Horn-Andalsvåg.jpg
+  - url: /assets/images/1_Horn-Andalsvag.jpg
+    image_path: /assets/images/1_Horn-Andalsvag.jpg
     alt: "placeholder image 1"
     title: "1. ferge: Horn-Andalsvåg"
   - url: /assets/images/2_Forvik-Tjøtta.jpg
