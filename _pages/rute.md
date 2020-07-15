@@ -27,4 +27,5 @@ gallery:
 
 ## Fergetider
 #### Lørdag: Brønnøysund — Bodø
+{% include gallery caption="Rutetider ved de fire fergene for etappen Brønnøysund-Bodø, lørdag." %}
 
