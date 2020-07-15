@@ -40,6 +40,7 @@ ferge3:
 {% include gallery id="ferge1" caption="Rutetider ved de fire fergene for etappen Brønnøysund-Bodø, lørdag." %}
 
 #### Søndag: Bodø — Svolvær
+Her er det passasjerregistrering hvor man må møte opp **senest 45 min før avgang**.
 {% include gallery id="ferge2" caption="Rutetider ved ferga for etappen Bodø—Svolvær, søndag." %}
 
 #### Tirsdag: Svolvær — Mosjøen
