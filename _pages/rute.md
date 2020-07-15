@@ -4,22 +4,22 @@ permalink: /Rute/
 excerpt: "Tentativ kjørerute for sommeren 2020"
 layout: splash
 gallery:
-  - url: /assets/images/lofoten.jpg
-    image_path: /assets/images/lofoten.jpg
+  - url: /assets/images/1_Horn-Andalsvåg.jpg
+    image_path: /assets/images/1_Horn-Andalsvåg.jpg
     alt: "placeholder image 1"
-    title: "Et fint bilde fra Lofoten"
-  - url: /assets/images/rodoylova.jpg
-    image_path: /assets/images/rodoylova.jpg
+    title: "1. ferge: Horn-Andalsvåg"
+  - url: /assets/images/2_Forvik-Tjøtta.jpg
+    image_path: /assets/images/2_Forvik-Tjøtta.jpg
     alt: "placeholder image 2"
-    title: "Et fint bilde fra Rødøyløva"
-  - url: /assets/images/bronn.jpg
-    image_path: /assets/images/bronn.jpg
+    title: "2. ferge: Forvik-Tjøtta"
+  - url: /assets/images/3_Levang-Nesna.jpg
+    image_path: /assets/images/3_Levang-Nesna.jpg
     alt: "placeholder image 3"
-    title: "Et fint bilde av Torghatten"
-  - url: /assets/images/bodo.jpeg
-    image_path: /assets/images/bodo.jpeg
+    title: "3. ferge: Levang-Nesna"
+  - url: /assets/images/4_Kilboghamn-Jektvik.jpg
+    image_path: /assets/images/4_Kilboghamn-Jektvik.jpg
     alt: "placeholder image 4"
-    title: "Et fint bilde av Bodø"
+    title: "4. ferge: Kilboghamn-Jektvik"
 ---
 ---
 
