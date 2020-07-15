@@ -3,8 +3,7 @@ title: "Kjørerute"
 permalink: /Rute/
 excerpt: "Tentativ kjørerute for sommeren 2020"
 layout: splash
-gallery:
-  - id: "ferge1"
+ferge1:
   - url: /assets/images/1_Horn-Andalsvag.jpg
     image_path: /assets/images/1_Horn-Andalsvag.jpg
     alt: "placeholder image 1"
@@ -21,14 +20,12 @@ gallery:
     image_path: /assets/images/4_Kilboghamn-Jektvik.jpg
     alt: "placeholder image 4"
     title: "4. ferge: Kilboghamn—Jektvik"
-gallery:
-  - id: "ferge2"
+ferge2:
   - url: /assets/images/5_Bodø-Moskenes.jpg
     image_path: /assets/images/5_Bodø-Moskenes.jpg
     alt: "placeholder image 1"
     title: "Ferge: Bodø—Moskenes"
-gallery:
-  - id: "ferge3"
+ferge3:
   - url: /assets/images/6_Svolvær-Skutvik.jpg
     image_path: /assets/images/6_Svolvær-Skutvik.jpg
     alt: "placeholder image 1"
