@@ -3,7 +3,8 @@ title: "Kjørerute"
 permalink: /Rute/
 excerpt: "Tentativ kjørerute for sommeren 2020"
 layout: splash
-ferge1:
+gallery:
+  - id: "ferge1"
   - url: /assets/images/1_Horn-Andalsvag.jpg
     image_path: /assets/images/1_Horn-Andalsvag.jpg
     alt: "placeholder image 1"
@@ -20,12 +21,14 @@ ferge1:
     image_path: /assets/images/4_Kilboghamn-Jektvik.jpg
     alt: "placeholder image 4"
     title: "4. ferge: Kilboghamn—Jektvik"
-ferge2:
+gallery:
+  - id: "ferge2"
   - url: /assets/images/5_Bodø-Moskenes.jpg
     image_path: /assets/images/5_Bodø-Moskenes.jpg
     alt: "placeholder image 1"
     title: "Ferge: Bodø—Moskenes"
-ferge3:
+gallery:
+  - id: "ferge3"
   - url: /assets/images/6_Svolvær-Skutvik.jpg
     image_path: /assets/images/6_Svolvær-Skutvik.jpg
     alt: "placeholder image 1"
@@ -37,10 +40,10 @@ ferge3:
 
 ## Fergetider
 #### Lørdag: Brønnøysund — Bodø
-{% include ferge1 caption="Rutetider ved de fire fergene for etappen Brønnøysund-Bodø, lørdag." %}
+{% include gallery id="ferge1" caption="Rutetider ved de fire fergene for etappen Brønnøysund-Bodø, lørdag." %}
 
 #### Søndag: Bodø — Svolvær
-{% include ferge2 caption="Rutetider ved ferga for etappen Bodø—Svolvær, søndag." %}
+{% include gallery id="ferge2" caption="Rutetider ved ferga for etappen Bodø—Svolvær, søndag." %}
 
 #### Tirsdag: Svolvær — Mosjøen
-{% include ferge3 caption="Rutetider ved ferga for etappen Svolvær—Mosjøen, tirsdag." %}
+{% include gallery id="ferge3" caption="Rutetider ved ferga for etappen Svolvær—Mosjøen, tirsdag." %}
