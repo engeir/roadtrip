@@ -1,6 +1,8 @@
 main:
   - title: "Oversikt"
     url: /oversikt/
+  - title: "Løpeturer"
+    url: /lopetur/
   - title: "Rute"
     url: /Rute/
   - title: "Galleri"
